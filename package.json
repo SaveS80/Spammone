@@ -1,0 +1,10 @@
+{
+  "name": "Spammone",
+  "version": "1.0.0",
+  "description": "Questo è il BOT del buonumore",
+  "main": "main.py",
+  "author": "SaveS80",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
+}
